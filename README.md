@@ -3,7 +3,7 @@
 A scalable climate intelligence platform built using Python and Tableau to analyze environmental datasets including temperature, CO2 emissions, methane, and pollution levels.
 
 ## 📌 Project Overview
-This project integrates multiple environmental datasets and performs:
+This project integrates multiple environmental datasets and performs : 
 - Data Cleaning
 - Data Transformation
 - Exploratory Data Analysis (EDA)
